@@ -21,9 +21,6 @@ Thank you for your interest in our tutorials, and we hope that you find them hel
 - [Artificial Neural Networks Explained](https://youtu.be/eOeKEOGlOf0)
 - [ANN with Python](https://youtu.be/2CmFgOPeFFM)
 - [Image Classification with Keras](https://youtu.be/7JvriP1lWJA)
-- [ANNs with Python](https://youtu.be/2CmFgOPeFFM)
-- [Image Classification with Keras](https://youtu.be/7JvriP1lWJA)
 - [Custom Layers with Keras in TensorFlow](https://youtu.be/yJgSGE2-L_o)
-- [Introduction to Deep Learning with TensorFlow](https://www.youtube.com/watch?v=8Wnn4rRg7D8)
 
 🔗 Let's connect [YouTube](http://youtube.com/tirendazacademy) | [Medium](http://tirendazacademy.medium.com) | [Twitter](http://twitter.com/tirendazacademy) | [Instagram](https://www.instagram.com/tirendazacademy) 😎

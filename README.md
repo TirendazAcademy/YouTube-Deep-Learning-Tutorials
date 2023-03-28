@@ -15,7 +15,7 @@ We are committed to providing high-quality content and keeping this repository u
 
 Thank you for your interest in our tutorials, and we hope that you find them helpful in your deep learning journey!
 
-## [![](https://img.shields.io/badge/YouTube-English-FF0000?style=plastic&logo=youtube&logoColor=white)](https://www.youtube.com/c/TirendazAcademy)
+## [![](https://img.shields.io/badge/YouTube-FF0000?style=plastic&logo=youtube&logoColor=white)](https://www.youtube.com/c/TirendazAcademy)
 
 - [Getting started with deep learning](https://youtu.be/b0Y-7dv3ZXo)
 - [Artificial Neural Networks Explained](https://youtu.be/eOeKEOGlOf0)
